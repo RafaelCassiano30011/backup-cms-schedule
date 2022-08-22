@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "node-schedule": "^2.1.0"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
